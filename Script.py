@@ -8,13 +8,13 @@ Here Is The Help For MY Commands."""
     
 📝 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org><b>ᴘʏᴛʜᴏɴ</b></a>\n
 
-📚 **ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href=https://github.com/pyrogram/pyrogram><b>ᴘʏʀᴏɢʀᴀᴍ</b></a>\n
+📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href=https://github.com/pyrogram/pyrogram><b>ᴘʏʀᴏɢʀᴀᴍ</b></a>\n
 
-📡 **ʜᴏsᴛᴇᴅ ᴏɴ : <a href=heroku.com><b>ʜᴇʀᴏᴋᴜ</b></a>\n
+📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href=heroku.com><b>ʜᴇʀᴏᴋᴜ</b></a>\n
 
-👨‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/JonSnow11><b>ᴊᴏɴ sɴᴏᴡ</b></a>\n
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/JonSnow11><b>ᴊᴏɴ sɴᴏᴡ</b></a>\n
 
-👥 **sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/RolexMoviesOX><b>ʀᴏʟᴇx ᴄᴏᴍᴍᴜɴɪᴛʏ</b></a>\n
+👥 sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/RolexMoviesOX><b>ʀᴏʟᴇx ᴄᴏᴍᴍᴜɴɪᴛʏ</b></a>\n
 """
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
     
